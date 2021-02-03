@@ -13,4 +13,4 @@ const Home = () => {
   return view;
 };
 
-export default view;
+export default Home;
