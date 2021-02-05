@@ -12,5 +12,4 @@ const Home = () => {
 
   return view;
 };
-
 export default Home;
